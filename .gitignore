@@ -1,0 +1,19 @@
+# yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# dependency directories
+node_modules/
+
+# dist
+dist/
+build/
+public/
+
+# editor
+.idea
+.vscode
